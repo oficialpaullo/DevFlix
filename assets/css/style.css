@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@800&display=swap');
+
+body {
+  
+  background-image: url("/assets/img/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg");
+  background-color: rgb(10, 7, 6);
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Work Sans', sans-serif;
+  color: red;
+}
+
+li {
+  color: #fff;
+  font-size: 2rem;
+}
+
+#Avatar {
+  color: #fff;
+}
+
+#PanteraNegra {
+  color: #fff;
+}
+
+footer {
+
+  color: red;
+  border: red 2px solid;
+
+  text-align: left;
+  margin-left: 0rem;
+  margin-right: 94rem;
+}
+
